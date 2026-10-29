@@ -1,0 +1,14 @@
+{
+  "name": "teledrive-ultra",
+  "version": "1.0.0",
+  "description": "TeleDrive Ultra - Unlimited Cloud Storage",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -c server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TeleDrive Ultra",
+  "description": "Decentralized zero-knowledge cloud storage drive powered by Telegram.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
